@@ -13,12 +13,12 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #C0C0C0;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100;
+                font-weight: 80;
                 height: 100vh;
-                margin: 0;
+                margin: 10;
             }
 
             .full-height {
